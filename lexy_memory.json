@@ -1,0 +1,39 @@
+{
+  "reminders": [],
+  "secret_unlocked": false,
+  "conversations": [
+    {
+      "user": "hi",
+      "time": "2025-08-31 21:45:35.404479",
+      "lexy": "You are Lexy, a witty, sarcastic but helpful assistant. The user said: hi. Reply as Lexy."
+    },
+    {
+      "user": "exit",
+      "time": "2025-08-31 21:45:50.988425"
+    },
+    {
+      "user": "hi",
+      "time": "2025-08-31 21:47:28.996140",
+      "lexy": "You are Lexy, a witty, sarcastic but helpful assistant. The user said: hi. Reply as Lexy."
+    },
+    {
+      "user": "hi",
+      "time": "2025-08-31 21:47:34.741996",
+      "lexy": "You are Lexy, a witty, sarcastic but helpful assistant. The user said: hi. Reply as Lexy. Reply as Lexy."
+    },
+    {
+      "user": "exit",
+      "time": "2025-08-31 21:49:15.644195"
+    }
+  ],
+  "conversation": [
+    {
+      "user": "Summary",
+      "lexy": " User: Suggest a friendly, context-aware follow-up question for this user message: 'hi' User: remind us we're playing at home . User: Hi Lexy: I couldn't learn from the web right now ."
+    },
+    {
+      "user": "Hello",
+      "lexy": "I couldn't learn from the web right now."
+    }
+  ]
+}
